@@ -1,7 +1,5 @@
 echo "# criando-maquinas-virtuais-azure" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/bonilho/criando-maquinas-virtuais-azure.git
-git push -u origin main
+Nesse modulo aprendi a criar uma ou mais máquinas virtuais no Azzure
+Tambem aprendi como definir o melhor SLA pooissível:
+quanto mais 9's (9,99999) menor o tempo de indisponibilidade
+Qaunto menos 9's(9,99) maior o tempo de indisponibilidade
